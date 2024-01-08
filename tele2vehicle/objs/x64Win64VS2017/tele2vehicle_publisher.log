@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (.\objs\x64Win64VS2017\) contains files shared from another project (tele2vehicle_subscriber.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tele2vehicle_publisher.cxx
+  tele2vehiclePlugin.cxx
+  tele2vehicle.cxx
+  Generating Code...
+  tele2vehicle_publisher-x64Win64VS2017.vcxproj -> D:\codes\hahaha\version05\tele2vehicle\objs\x64Win64VS2017\tele2vehicle_publisher.exe
